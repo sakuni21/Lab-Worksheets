@@ -17,7 +17,7 @@ public class Q10 {
             right-=1;
 
         }
-        System.out.println(word+" is a palindrome");
+        System.out.println(word+" is a palindrome ");
 
     }
 }

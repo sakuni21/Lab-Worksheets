@@ -13,7 +13,7 @@ public class Q11 {
         int num = input.nextInt();
         while (num != rand) {
             if (num < rand) {
-                System.out.println("Enter a higher value");
+                System.out.println("Enter a higher value ");
             } else {
                 System.out.println("Enter a lower value");
             }

@@ -17,6 +17,7 @@ public class Q12 {
         String newWord = sc.nextLine();
 
         String updatedSentence = sentence.replace(oldWord, newWord);
+        
         System.out.println("\nUpdated Sentence:");
         System.out.println(updatedSentence);
 
